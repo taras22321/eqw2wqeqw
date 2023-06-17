@@ -1,0 +1,15 @@
+body {
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+  	font-size: 20px;
+  	line-height: 1.4;
+  	color: black;
+ 	 min-width:320px;
+ 	 overflow-x:hidden;
+ 	 height: auto;
+ 	 padding: 20px;
+ 	 background-color: antiquewhite;
+}
+a{
+    text-decoration: none;
+}
